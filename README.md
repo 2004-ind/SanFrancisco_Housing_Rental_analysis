@@ -61,13 +61,13 @@ Upon launching the application  on jupyter lab run the file by clicking on the p
 
 ## Usage Examples
 
-***Data Aggregation by YEAR***
+### Data Aggregation by YEAR ###
 
 
 ![](data_agreegation.png)
 
 
-***Housing Units per Year***
+### Housing Units per Year ###
 
 
 ![](housing_units.png)
@@ -76,7 +76,7 @@ Upon launching the application  on jupyter lab run the file by clicking on the p
 From the visual an increasing trend in supply can be observed.The supply of houses are growing around 2000 units per year from 2010 to 2016.
 
 
-***Average Sale Prices per Square Foot by Year***
+### Average Sale Prices per Square Foot by Year ###
 
 
 ![](price_rent.png)
@@ -89,7 +89,7 @@ A slight drop can be observed in 2011 compared to the previous year(2010) by 27.
 
 
 
-***Average Sale Prices and Average Rent by Neighborhood***
+### Average Sale Prices and Average Rent by Neighborhood ###
 
 
 ![](neighborhood_price_rent.png)
@@ -100,19 +100,20 @@ A slight drop can be observed in 2011 compared to the previous year(2010) by 27.
 The plot tells us that for the Anza Vista neighborhood,the average sale price per square foot for 2016 is less than the price that’s listed for 2012. For 2016 the average sale price per square foot is 88.402 USD while for 2012 its 344.491 USD.
 
 
-***Neighborhood Data***
+### Neighborhood Data ###
+
 
 
 ![](Data.png)
 
-***Interactive Neighborhood Map***
+### Interactive Neighborhood Map ###
 
 ![](map.png)
 
 
 Based on the information that the above visualization depicts, Westwood Park has the highest yielding rental properties with the average gross rent of 3959 USD.On the other hand, Finacial district is the costliest neighborhood where properties are sold for the averge of 903.99 USD per sqare foot.
 
-**Conclusion:**
+### Conclusion: ###
 
 Reviewing the plots created above, an increasing trend in rental income growth can be observed compare to the trend in sale prices during the period of 2010 -2016. Although some neighborhoods have experianced a drop in sale prices in 2011, the rental income kept accelarating steadily from 2010 to 2016 holding the true for all the neighborhoods across San Francisco.
 
